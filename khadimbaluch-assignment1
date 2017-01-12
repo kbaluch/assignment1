@@ -5,11 +5,13 @@
 		<title>Assignment 1</title>
 	</head>
 	<body>
-		#Khadim Baluch
+		<h1>Khadim Baluch</h1>
 
-		_Minimal web development experience_
-		- Squarespace code injections for simple formatting and animations
-		- Created a simplistic web form with file upload capability via google scripts
-		- Otherwise, extant coding experience derived from CS0008, CS0401, CS0445, non-Pitt MATLAB
+		Minimal web development experience:
+		<u1>
+			<li>Squarespace code injections for simple formatting and animations</li>
+			<li>Created a simplistic web form with file upload capability via google scripts</li>
+			<li>Otherwise, extant coding experience derived from CS0008, CS0401, CS0445, non-Pitt MATLAB</li>
+		</u1>
 	</body>
 </html>
